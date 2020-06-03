@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DevelopmentSystemsTest
+namespace ds.test.impl
 {
     interface IPluginFactory
     {

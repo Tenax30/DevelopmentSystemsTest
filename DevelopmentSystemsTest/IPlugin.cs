@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Drawing;
-namespace DevelopmentSystemsTest
+namespace ds.test.impl
 {
     interface IPlugin
     {
